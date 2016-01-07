@@ -1,0 +1,1630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"total_opex",
+				"total_opex_months"
+			],
+			[
+				"total_cogs",
+				"total_cogs_months"
+			],
+			[
+				"total_rev",
+				"total_rev_months"
+			],
+			[
+				"ed",
+				"edit_script"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"Start",
+				"start_date"
+			],
+			[
+				"end",
+				"endNow"
+			],
+			[
+				"start",
+				"startNow"
+			],
+			[
+				"chi",
+				"child_4"
+			],
+			[
+				"chil",
+				"child_2"
+			],
+			[
+				"total_net_",
+				"total_net_tr"
+			],
+			[
+				"total_foo",
+				"total_food_value_"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"SER",
+				"SERVICE_CHARGE"
+			],
+			[
+				"inve",
+				"inventory_view"
+			],
+			[
+				"enddat",
+				"enddate"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"INVE",
+				"INVENTORY_ID"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"SALARY",
+				"SALARY_SUGGEST"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"inpu",
+				"input_end_date"
+			],
+			[
+				"profit",
+				"profit_and_loss"
+			],
+			[
+				"visi",
+				"visibleFoodHistory"
+			],
+			[
+				"total_cogs_",
+				"total_cogs_level"
+			],
+			[
+				"sess",
+				"session_data"
+			],
+			[
+				"tota",
+				"total_gross_rev"
+			],
+			[
+				"DIS",
+				"DISCOUNTS"
+			],
+			[
+				"TOTA",
+				"TOTAL_ROUNDING"
+			],
+			[
+				"tot",
+				"total_revenue"
+			],
+			[
+				"last",
+				"last_row"
+			],
+			[
+				"to",
+				"total_data_cat"
+			],
+			[
+				"servi",
+				"service_charge"
+			],
+			[
+				"serv",
+				"service_charge"
+			],
+			[
+				"motnh",
+				"months_ranges"
+			],
+			[
+				"Profit",
+				"profitandloss"
+			],
+			[
+				"pas",
+				"passvars"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"total_mo",
+				"total_month"
+			],
+			[
+				"the",
+				"the_dates"
+			],
+			[
+				"dat",
+				"dating"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"acc",
+				"acc_month"
+			],
+			[
+				"AC",
+				"ACC_MONTH"
+			],
+			[
+				"ACC",
+				"ACCOUNTING_ID"
+			],
+			[
+				"A",
+				"ACCOUNTING_ID"
+			],
+			[
+				"total_doe_",
+				"total_doe_prev"
+			],
+			[
+				"total",
+				"total_gae_prev"
+			],
+			[
+				"AMO",
+				"AMOUNT2"
+			],
+			[
+				"Amo",
+				"AMOUNT2"
+			],
+			[
+				"month",
+				"monthyear"
+			],
+			[
+				"oper",
+				"operating_expenses"
+			],
+			[
+				"max",
+				"max_id"
+			],
+			[
+				"max_",
+				"max_acc_detail_id"
+			],
+			[
+				"mont",
+				"month"
+			],
+			[
+				"mo",
+				"monthyear"
+			],
+			[
+				"rest",
+				"rest_id"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"sta",
+				"start_date"
+			],
+			[
+				"def",
+				"def_start_date"
+			],
+			[
+				"ope",
+				"opexp"
+			],
+			[
+				"session",
+				"session_filt"
+			],
+			[
+				"REST",
+				"REST_ID"
+			],
+			[
+				"child",
+				"child_1"
+			],
+			[
+				"pare",
+				"parent_4"
+			],
+			[
+				"paren",
+				"parent_3"
+			],
+			[
+				"parent",
+				"parent_1"
+			],
+			[
+				"fa",
+				"fa-plus-square"
+			],
+			[
+				"diff",
+				"diff_odays"
+			],
+			[
+				"E",
+				"EMAIL_ADDRESS"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"C",
+				"CASH"
+			],
+			[
+				"cu",
+				"currentLang"
+			],
+			[
+				"ml-F",
+				"ml-FirstName"
+			],
+			[
+				"qty",
+				"qty_round"
+			],
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"Cu",
+				"Customers"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"order",
+				"order_details"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\n/*\n|--------------------------------------------------------------------------\n| Routes File\n|--------------------------------------------------------------------------\n|\n| Here is where you will register all of the routes in an application.\n| It's a breeze. Simply tell Laravel the URIs it should respond to\n| and give it the controller to call when that URI is requested.\n|\n*/\n\n/*\n|--------------------------------------------------------------------------\n| Application Routes\n|--------------------------------------------------------------------------\n|\n| This route group applies the \"web\" middleware group to every route\n| it contains. The \"web\" middleware group is defined in your HTTP\n| kernel and includes session state, CSRF protection, and more.\n|\n*/\n\nRoute::group(['middleware' => 'web'], function () {\n    Route::auth();\n\n    Route::group(['middleware' => ])\n    Route::get('/', 'HomeController@index');\n});\n",
+			"file": "app/Http/routes.php",
+			"file_size": 891,
+			"file_write_time": 130964593142120170,
+			"settings":
+			{
+				"buffer_size": 928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/F/y3v/laravel_example/app/setLoginStatut",
+			"file_size": 0,
+			"file_write_time": 130964627791507767,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 72 files for \"setLoginStatut\" (case sensitive)\n\nF:\\y3v\\laravel_example\\app\\Listeners\\LoginSuccess.php:\n   15      public function handle(Login $login)\n   16      {\n   17:         $this->statut->setLoginStatut($login);\n   18      }\n   19  }\n\nF:\\y3v\\laravel_example\\app\\Services\\Statut.php:\n    9  	 * @return void\n   10  	 */\n   11: 	public function setLoginStatut($login)\n   12  	{\n   13  		session()->put('statut', $login->user->role->slug);\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/F/y3v/laravel_example/app/Listeners/LoginSuccess.php",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/y3v/catalog/app",
+		"/F/y3v/laravel_example",
+		"/F/y3v/laravel_example/app",
+		"/F/y3v/laravel_example/app/Http/Controllers",
+		"/F/y3v/laravel_example/app/Http/Middleware",
+		"/F/y3v/laravel_example/app/Services",
+		"/F/y3v/laravel_example/resources/views/front"
+	],
+	"file_history":
+	[
+		"/F/y3v/laravel_example/app/setLoginStatut",
+		"/C/Users/zakuna/AppData/Local/Temp/Rar$DIa0.100/routes.php",
+		"/C/Users/zakuna/AppData/Local/Temp/Rar$DIa0.379/register.blade.php",
+		"/F/y3v/catalog/app/User.php",
+		"/F/y3v/catalog/config/app.php",
+		"/F/y3v/catalog/database/seeds/UserTableSeeder.php",
+		"/F/y3v/catalog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/F/y3v/catalog/bootstrap/app.php",
+		"/F/y3v/catalog/vendor/symfony/routing/Exception/RouteNotFoundException.php",
+		"/F/y3v/catalog/resources/views/auth/login.blade.php",
+		"/F/y3v/catalog/app/Http/routes.php",
+		"/F/y3v/catalog/resources/views/layouts/app.blade.php",
+		"/F/y3v/catalog/resources/views/layouts/master.blade.php",
+		"/F/y3v/catalog/app/Providers/RouteServiceProvider.php",
+		"/F/y3v/catalog/resources/views/auth/register.blade.php",
+		"/F/y3v/catalog/resources/views/layouts/header.blade.php",
+		"/F/y3v/catalog/resources/views/auth/password.blade.php",
+		"/F/y3v/catalog/app/Http/Controllers/Auth/AuthController.php",
+		"/F/y3v/catalog/app/Http/Controllers/Auth/PasswordController.php",
+		"/F/y3v/catalog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/F/y3v/catalog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/F/y3v/catalog/resources/views/emails/password.blade.php",
+		"/F/y3v/catalog/config/auth.php",
+		"/F/y3v/catalog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/F/xampp/htdocs/nadipos/application/models/accounting/profitandloss_model.php",
+		"/F/xampp/htdocs/nadipos/application/views/accounting/printview/pnlview.php",
+		"/F/xampp/htdocs/nadipos/application/views/accounting/profit_and_loss.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/accounting/profitandloss_controller.php",
+		"/F/Repositories/nadi-web-application/application/models/accounting/profitandloss_model.php.rej",
+		"/F/Tasks/wiki/mkdocs.yml",
+		"/F/Tasks/wiki/docs/index.md",
+		"/F/Repositories/wiki backup/readme.md",
+		"/C/Users/zakuna/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/xampp/htdocs/docs/index.html",
+		"/F/xampp/htdocs/nadipos/application/language/id/accounting/profit_and_loss_lang.php",
+		"/F/xampp/htdocs/nadipos/application/language/en/accounting/profit_and_loss_lang.php",
+		"/F/xampp/htdocs/nadipos/application/views/accounting/operating_expenses.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/accounting/operatingexpenses_controller.php",
+		"/F/xampp/htdocs/nadipos/application/models/accounting/operatingexp_model.php",
+		"/F/y3v/wiki.md",
+		"/F/xampp/htdocs/nadipos/application/views/inventory/dailyinventory.php",
+		"/F/xampp/htdocs/nadipos/application/views/inventory/inventory.php",
+		"/F/xampp/htdocs/nadipos/application/views/shared/header.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/F/xampp/htdocs/hhh.md",
+		"/F/xampp/htdocs/nadipos/assets/css/datepicker.css",
+		"/F/Repositories/nadi-web-application/assets/js/bootstrap-datepicker.js",
+		"/F/xampp/htdocs/nadipos/assets/js/bootstrap-datepicker.js",
+		"/F/xampp/htdocs/nadipos/assets/js/bootstrap-datepicker2.js",
+		"/F/xampp/htdocs/nadipos/application/views/index.html",
+		"/F/xampp/htdocs/nadipos/application/controllers/customers_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/dashboard/menuinventory_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/dashboard/sales_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/dashboard/trends_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/inventory/category_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/inventory/menu_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/inventory/menuinventory_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/inventory/modgroups_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/inventory/modifiers_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/reports/attendance_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/reports/cashflow_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/reports/inventory_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/reports/payment_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/reports/sales_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/setting/printer_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/setting/restaurant_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/setting/tableorder_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/setting/terminal_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/setting/users_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/summary/attendance_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/summary/dailysales_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/summary/sales_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/sync_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/loginauth_controller.php",
+		"/F/xampp/htdocs/nadipos/application/models/login_model.php",
+		"/F/xampp/htdocs/nadipos/application/config/config.php",
+		"/F/Repositories/nadi-web-application/application/config/config.php",
+		"/F/xampp/htdocs/nadipos/application/views/shared/left_menu.php",
+		"/F/xampp/htdocs/nadipos/application/views/dashboard/printview/salesview.php",
+		"/F/xampp/htdocs/nadipos/application/views/dashboard/printview/trendsview.php",
+		"/F/xampp/htdocs/nadipos/application/libraries/Dating.php",
+		"/F/xampp/htdocs/nadipos/application/language/id/accounting/operatingexp_lang.php",
+		"/F/xampp/htdocs/nadipos/application/language/en/accounting/operatingexp_lang.php",
+		"/F/xampp/htdocs/nadipos/application/language/id/shared/ui_lang.php",
+		"/F/xampp/htdocs/nadipos/application/language/en/shared/ui_lang.php",
+		"/F/xampp/htdocs/nadipos/application/views/accounting/profit_and_loss2.php",
+		"/F/xampp/htdocs/nadipos/application/views/setting/users.php",
+		"/F/xampp/htdocs/nadipos/application/language/en/setting/users_lang.php",
+		"/F/xampp/htdocs/nadipos/application/language/id/setting/users_lang.php",
+		"/F/xampp/htdocs/nadipos/assets/css/sidebar.css",
+		"/F/xampp/htdocs/nadipos/application/views/shared/left_menu2.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/inventory/inventory_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/inventory/dailyinventory_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/profile_controller.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/login_controller.php",
+		"/F/xampp/htdocs/nadipos/application/models/process/printersetting_model.php",
+		"/F/xampp/htdocs/nadipos/application/views/setting/printer.php",
+		"/F/xampp/htdocs/nadipos/application/models/process/printersetting2_model.php",
+		"/F/xampp/htdocs/nadipos/application/views/setting/printer2.php",
+		"/F/xampp/htdocs/nadipos/application/config/routes.php",
+		"/F/xampp/htdocs/nadipos/application/libraries/Converter.php",
+		"/F/xampp/htdocs/nadipos/application/config/development/config.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/profile_controller - Copy.php",
+		"/F/xampp/htdocs/nadipos/application/views/summary/sales.php",
+		"/C/Users/zakuna/Downloads/kuePlus.php",
+		"/F/xampp/htdocs/nadipos/application/models/process/operatingexpenses_model.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/process/operatingexpenses_controller.php",
+		"/F/xampp/htdocs/nadipos/application/views/process/operating_expenses.php",
+		"/F/xampp/htdocs/nadipos/application/views/process/operate_expenses.php",
+		"/F/xampp/htdocs/nadipos/application/controllers/process/categorysetting_controller.php",
+		"/F/xampp/htdocs/nadipos/application/views/dashboard/trends.php",
+		"/F/xampp/htdocs/nadipos/application/models/process/categorysetting_model.php",
+		"/F/Repositories/nadi-web-application/application/config/database.php",
+		"/F/Repositories/nadi-web-application/application/config/development/config.php",
+		"/F/xampp/htdocs/nadipos/application/config/production/config.php",
+		"/F/Repositories/nadi-web-application/application/config/production/config.php",
+		"/F/xampp/htdocs/nadipos/application/views/summary/dailysales.php",
+		"/F/xampp/htdocs/nadipos/application/models/accounting/Operatingexp_model.php",
+		"/F/xampp/htdocs/nadipos-backup/application/controllers/accounting/operatingexpenses_controller.php",
+		"/F/xampp/htdocs/nadipos/application/language/id/shared/left_menu_lang.php",
+		"/F/xampp/htdocs/nadipos/application/language/en/shared/left_menu_lang.php",
+		"/F/xampp/htdocs/nadipos/application/language/en/left_menu_lang.php",
+		"/F/xampp/htdocs/nadipos/application/config/database.php",
+		"/F/xampp/htdocs/nadipos/application/config/.gitignore",
+		"/F/xampp/htdocs/nadipos-backup/index.php",
+		"/F/xampp/htdocs/nadipos/index.php",
+		"/F/xampp/htdocs/nadipos/application/views/setting/restaurant.php",
+		"/F/xampp/htdocs/nadipos/assets/css/custom.css"
+	],
+	"find":
+	{
+		"height": 72.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"F:\\y3v\\laravel_example\\app",
+			"F:\\xampp\\htdocs\\nadipos\\application\\controllers",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views",
+			"F:\\xampp\\htdocs\\nadipos\\application\\controllers",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views",
+			"F:\\xampp\\htdocs\\nadipos\\application\\controllers",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views",
+			"F:\\xampp\\htdocs\\nadipos\\application\\models",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views",
+			"F:\\xampp\\htdocs\\nadipos\\application\\controllers",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views",
+			"F:\\xampp\\htdocs\\nadipos\\application\\language\\id",
+			"F:\\xampp\\htdocs\\nadipos\\application\\language",
+			"F:\\xampp\\htdocs\\nadipos\\application\\language\\en",
+			"F:\\xampp\\htdocs\\nadipos\\application\\language\\id",
+			"F:\\xampp\\htdocs\\nadipos\\application\\controllers",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views",
+			"F:\\xampp\\htdocs\\nadipos\\application",
+			"F:\\xampp\\htdocs\\nadipos\\application\\language\\id",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views",
+			"F:\\xampp\\htdocs\\nadipos\\application\\views\\dashboard",
+			"F:\\xampp\\htdocs\\nadipos\\application",
+			"F:\\xampp\\htdocs\\nadipos"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"setLoginStatut",
+			"username",
+			"register",
+			"login",
+			"Invent",
+			"totM+1",
+			"TAX",
+			"Login",
+			"restname",
+			"PRINT",
+			"TOTAL_PURCHASED_INV",
+			"TOTAL_PURCHASED_INV FROM",
+			"TOTAL_PURCHASED_INV FROM ( SELECT SUM",
+			"ADDED_BY_INV.ADDED) TOTAL_PURCHASED_INV FROM ( SELECT SUM",
+			"doe_toggle",
+			"				",
+			"toggle_all",
+			"				",
+			"					",
+			"				",
+			"					",
+			"				",
+			" $",
+			"gae",
+			"ste",
+			"doe",
+			"$total_month * 2) + ",
+			"cogs",
+			"food",
+			"rev_to",
+			"al_month * 2) +",
+			"show",
+			"total_net_cur_",
+			"total_food_months",
+			"total_food_cur_months",
+			"total_gross",
+			"ste",
+			"gae",
+			"total_gaes_months",
+			"does",
+			"doe",
+			"cogs",
+			"iend",
+			"ipur",
+			"ibeg",
+			"disc",
+			"rev",
+			"$total_months_all",
+			"tax",
+			"round",
+			"tip",
+			"svc",
+			"food",
+			"show",
+			"<?=$x?>",
+			"total_food_months",
+			"Food",
+			"Revenues",
+			"Revenue",
+			"table",
+			"ote",
+			"ste",
+			"gae",
+			"doe",
+			"opex",
+			"Total",
+			"ote_prev",
+			"doe",
+			"gae",
+			"amount",
+			"ste",
+			"gae",
+			"doe",
+			"_value",
+			"total",
+			"Total",
+			"doe_prev",
+			"doe2",
+			"doe",
+			"total_doe",
+			"newValue",
+			"Float",
+			"\"",
+			"doe",
+			"displa",
+			"a ",
+			"/a>",
+			"<a ",
+			"</a>",
+			"<a",
+			"a",
+			"Login",
+			"Currency",
+			"view",
+			"models",
+			"Sync",
+			"markdown-header-introduction",
+			"html",
+			"text",
+			"$(\"#start_date\").val(startNow);",
+			"datepicker",
+			"datepi",
+			"start",
+			"$role <= $config['max_role']",
+			"in_array($data['role'], array(1, 2, 3))",
+			"start",
+			"startNow",
+			"hasChanged",
+			"start",
+			"datep",
+			"stat",
+			"false",
+			"in_array($data['role'], array(1, 2, 3)",
+			"in_array($data['role'], $config['admin_view'])",
+			":visible",
+			"				",
+			"					",
+			"				",
+			"					",
+			"				",
+			"toggle",
+			"toogle_all",
+			"Cost",
+			"gae",
+			"ste",
+			"doe",
+			"dae",
+			"cogs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$data['role'] <= $config['max_role']",
+			"$role <= $config['max_role']",
+			"status",
+			"in_array($data['role'], array(1, 2, 3))",
+			"in_array($data['role'], array(1, 2, 3)",
+			"toggle_all",
+			"in_array($data['role'], $config['admin_view'])",
+			"!in_array($data['role'], $config['roles'])",
+			"in_array($data['role'], $config['roles'])",
+			"total_cat",
+			"h4>",
+			" /END/ ",
+			"_prev_value",
+			"minus",
+			"	",
+			"table-striped table-bordered ",
+			"nrb",
+			"table-striped table-bordered ",
+			"",
+			"<?=($startdate == $enddate)?$enddate:$startdate.\" - \".$enddate?>",
+			"Edit",
+			"file_upload_limit",
+			"<br>",
+			"SELECTED_DATE",
+			"trends",
+			"REC_DAY",
+			"trends2_model",
+			"SELECTED_DATE",
+			"selected_date",
+			"SELECTED_DATE",
+			"\".$this->lang->line('No Records').\"",
+			"selected_date",
+			"><?=$this->lang->line('TOTAL')?><",
+			"<?=$this->lang->line('TOTAL')?>",
+			"SELECTED_DATE",
+			"selected_date",
+			"SELECTED_DATE",
+			"selected_date",
+			"SELECTED_DATE",
+			"selected_date",
+			"select"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1886,
+								1886
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 927.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								876,
+								876
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/F/y3v/laravel_example/app/setLoginStatut",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										204,
+										218
+									],
+									[
+										359,
+										373
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"default_dir": "F:\\y3v\\catalog",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/F/y3v/laravel_example/app/Listeners/LoginSuccess.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "y3v.sublime-project",
+	"replace":
+	{
+		"height": 118.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.bla",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"register",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"app.php",
+				"bootstrap\\app.php"
+			],
+			[
+				"routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				"roue",
+				"vendor\\symfony\\routing\\Exception\\RouteNotFoundException.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"routes",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"resetspasswords",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\ResetsPasswords.php"
+			],
+			[
+				"password",
+				"app\\Http\\Controllers\\Auth\\PasswordController.php"
+			],
+			[
+				"authen",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"auth",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"registerus",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"authenticatesusers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+			],
+			[
+				"auth.php",
+				"config\\auth.php"
+			],
+			[
+				"auth/",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"pnlview",
+				"nadipos\\application\\views\\accounting\\printview\\pnlview.php"
+			],
+			[
+				"profit",
+				"application\\views\\accounting\\profit_and_loss.php"
+			],
+			[
+				"sidebar.css",
+				"assets\\css\\sidebar.css"
+			],
+			[
+				"loginauth",
+				"application\\controllers\\loginauth_controller.php"
+			],
+			[
+				"rou",
+				"application\\config\\routes.php"
+			],
+			[
+				"oper",
+				"application\\models\\accounting\\operatingexp_model.php"
+			],
+			[
+				"opera",
+				"application\\views\\accounting\\operating_expenses.php"
+			],
+			[
+				"left",
+				"application\\language\\en\\left_menu_lang.php"
+			],
+			[
+				"ui_lan",
+				"nadipos\\application\\language\\id\\shared\\ui_lang.php"
+			],
+			[
+				"ui_lang",
+				"nadipos\\application\\language\\en\\shared\\ui_lang.php"
+			],
+			[
+				"rout",
+				"nadipos\\application\\config\\routes.php"
+			],
+			[
+				"ui_la",
+				"nadipos\\application\\language\\id\\shared\\ui_lang.php"
+			],
+			[
+				"inventory",
+				"nadipos\\application\\views\\inventory\\inventory.php"
+			],
+			[
+				"menuinventory",
+				"nadipos\\application\\views\\inventory\\menuinventory.php"
+			],
+			[
+				"sales_lang",
+				"nadipos\\application\\language\\en\\reports\\sales_lang.php"
+			],
+			[
+				"sales_controller",
+				"nadipos\\application\\controllers\\reports\\sales_controller.php"
+			],
+			[
+				"sales_mode",
+				"nadipos\\application\\models\\reports\\sales_model.php"
+			],
+			[
+				"dailycon",
+				"nadipos\\application\\controllers\\reports\\daily_controller.php"
+			],
+			[
+				"menuinventory_mo",
+				"nadipos\\application\\models\\dashboard\\menuinventory_model.php"
+			],
+			[
+				"defa",
+				"nadipos\\application\\models\\default_model.php"
+			],
+			[
+				"trends",
+				"application\\views\\dashboard\\trends.php"
+			],
+			[
+				"dail",
+				"application\\controllers\\inventory\\dailyinventory_controller.php"
+			],
+			[
+				"dailysal",
+				"application\\controllers\\summary\\dailysales_controller.php"
+			],
+			[
+				"res",
+				"application\\views\\setting\\restaurant.php"
+			],
+			[
+				"trends_la",
+				"application\\language\\id\\dashboard\\trends_lang.php"
+			],
+			[
+				"dailysales_la",
+				"application\\language\\en\\summary\\dailysales_lang.php"
+			],
+			[
+				"dailysales",
+				"application\\views\\summary\\dailysales.php"
+			],
+			[
+				"atte",
+				"application\\controllers\\summary\\attendance_controller.php"
+			],
+			[
+				"dailyinventory",
+				"application\\controllers\\inventory\\dailyinventory_controller.php"
+			],
+			[
+				"invemtory_la",
+				"application\\language\\en\\inventory\\menuinventory_lang.php"
+			],
+			[
+				"sales.php",
+				"application\\views\\dashboard\\sales.php"
+			],
+			[
+				"sales_la",
+				"application\\language\\en\\dashboard\\sales_lang.php"
+			],
+			[
+				"sales",
+				"application\\views\\dashboard\\sales.php"
+			],
+			[
+				"syn",
+				"application\\models\\sync_model.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"dailyinventory_mo",
+				"application\\models\\inventory\\dailyinventory_model.php"
+			],
+			[
+				"databa",
+				"application\\config\\database.php"
+			],
+			[
+				"dailyin",
+				"application\\views\\inventory\\dailyinventory.php"
+			],
+			[
+				"daily",
+				"application\\models\\inventory\\dailyinventory_model.php"
+			],
+			[
+				"inve",
+				"application\\views\\inventory.php"
+			],
+			[
+				"dailyinver",
+				"application\\controllers\\inventory\\dailyinventory_controller.php"
+			],
+			[
+				"alp",
+				"application\\libraries\\Alpha.php"
+			],
+			[
+				"tes",
+				"application\\views\\dashboard\\tes.php"
+			],
+			[
+				"rest",
+				"application\\views\\setting\\restaurant.php"
+			],
+			[
+				"testp",
+				"application\\controllers\\process\\testprocess_controller.php"
+			],
+			[
+				"update_res",
+				"application\\views\\process\\update_resto.php"
+			],
+			[
+				"header",
+				"application\\views\\shared\\header.php"
+			],
+			[
+				"test",
+				"application\\controllers\\test_controller.php"
+			],
+			[
+				"resta",
+				"application\\models\\process\\restaurantsetting_model.php"
+			],
+			[
+				"restaurantse",
+				"application\\controllers\\process\\restaurantsetting_controller.php"
+			],
+			[
+				"restau",
+				"application\\views\\setting\\restaurant.php"
+			],
+			[
+				"testpr",
+				"application\\controllers\\process\\testprocess_controller.php"
+			],
+			[
+				"test_model",
+				"application\\models\\dashboard\\test_model.php"
+			],
+			[
+				"rets",
+				"application\\controllers\\setting\\restaurant_controller.php"
+			],
+			[
+				"test_mo",
+				"application\\models\\dashboard\\test_model.php"
+			],
+			[
+				"tes.p",
+				"application\\views\\dashboard\\tes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\xampp\\htdocs\\nadipos\\y3v.sublime-project"
+			],
+			[
+				"\\",
+				"F:\\xampp\\htdocs\\nadipos\\y3v.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
