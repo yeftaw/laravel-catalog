@@ -11,7 +11,7 @@ cd laravel-catalog
 
 Secondly do an installation using composer
 ```
-composer instal
+composer install
 ```
 
 After all dependencies are completely downloaded, copy .env.example to .env and generate key for the application
