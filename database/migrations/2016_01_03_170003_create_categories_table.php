@@ -14,8 +14,9 @@ class CreateCategoriesTable extends Migration
     {
         Schema::create('categories', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('title', 50);
-            $table->integer('parent_id');
+            $table->string('title', 75);
+            $table->string('description', 255);
+            NestedSet::columns($table);
         });
     }
 
@@ -26,6 +27,7 @@ class CreateCategoriesTable extends Migration
      */
     public function down()
     {
+        // NestedSet::dropColumns($table);
         Schema::drop('categories');
     }
 }
