@@ -32,7 +32,10 @@
 			@endif
 
 			<div class="panel panel-default">
-				<div class="panel-heading">Products&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ route('products.create') }}" class="btn btn-xs btn-success">&nbsp;&nbsp;Create&nbsp;&nbsp;</a></div>
+				<div class="panel-heading">Products&nbsp;&nbsp;&nbsp;&nbsp;
+				@if(Auth::user()->role_id == 1)
+					<a href="{{ route('products.create') }}" class="btn btn-xs btn-success">&nbsp;&nbsp;Create&nbsp;&nbsp;</a></div>
+				@endif
 				<div class="panel-body">
 					<div class="col-xs-offset-8 col-xs-4" style="margin-bottom: 15px;">
 						<form id="filter" action="{{route('products.index')}}" method="get">{!! csrf_field() !!}<select name="filter[]" data-placeholder="Filter Category" class="form-control multiselect" multiple="multiple">
